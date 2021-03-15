@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @ayush-shah-1501
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in aws cloud
+- 🌱 I’m currently learning aws, ansible, docker, vagrant, jenkins, terraform basically for a devops engineer.
+- 💞️ I’m looking to collaborate on aws cloud
+- 📫 Contact me on my mail - aayushshah896@gmail.com
 
 <!---
 ayush-shah-1501/ayush-shah-1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+i
