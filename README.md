@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayush-shah-1501
-- 👀 I’m interested in aws cloud
-- 🌱 I’m currently learning aws, ansible, docker, vagrant, jenkins, terraform basically for a devops engineer.
-- 💞️ I’m looking to collaborate on aws cloud
+- 👀 I’m interested in AWS CLOUD
+- 🌱 I’m currently learning aws, ansible, docker, vagrant, jenkins, terraform, basically for a devops engineer.
+- 💞️ I’m looking to collaborate with AWS Cloud
 - 📫 Contact me on my mail - aayushshah896@gmail.com
 
 <!---
