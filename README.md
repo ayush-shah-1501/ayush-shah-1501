@@ -2,7 +2,7 @@
 - 👀 I’m interested in AWS CLOUD
 - 🌱 I’m currently learning aws, ansible, docker, vagrant, jenkins, terraform, basically for a devops engineer.
 - 💞️ I’m looking to collaborate with AWS Cloud
-- 📫 Contact me on my mail - aayushshah896@gmail.com
+- 📫 Contact me on my email - aayushshah896@gmail.com
 
 <!---
 ayush-shah-1501/ayush-shah-1501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
